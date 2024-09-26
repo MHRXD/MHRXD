@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHRXD
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on idk what ...
 - 📫 How to reach me 
 
